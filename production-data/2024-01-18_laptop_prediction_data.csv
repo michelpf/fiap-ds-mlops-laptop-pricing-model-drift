@@ -1,4 +1,4 @@
-brand,processor_brand,processor_name,os,weight,warranty,touchscreen,ram_gb,hdd,ssd,graphic_card,ram_type,os_bit,price,timestamp,model_version
+brand,processor_brand,processor_name,os,weight,warranty,touchscreen,ram_gb,hdd,ssd,graphic_card_gb,ram_type,os_bit,price,timestamp,model_version
 hp,amd,core i3,windows,casual,5,0,92,1536,0,128,ddr4,32,75097,18-01-2024 00:33,linear_regression@v1.0.0#1
 dell,amd,core i3,other,thinnlight,3,1,68,6144,0,248,other,64,134624,18-01-2024 00:33,linear_regression@v1.0.0#1
 hp,intel,ryzen 5,other,thinnlight,1,1,68,7680,0,8,ddr4,32,105713,18-01-2024 00:33,linear_regression@v1.0.0#1
