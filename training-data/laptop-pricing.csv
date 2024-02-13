@@ -1,4 +1,4 @@
-brand,processor_brand,processor_name,ram_gb,ram_type,ssd,hdd,os,os_bit,graphic_card_gb,weight,warranty,touchscreen,prediction
+brand,processor_brand,processor_name,ram_gb,ram_type,ssd,hdd,os,os_bit,graphic_card_gb,weight,warranty,touchscreen,price
 asus,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,casual,0,0,34649
 lenovo,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,casual,0,0,38999
 lenovo,intel,core i3,4,ddr4,0,1024,windows,64-bit,4,casual,0,0,39999
