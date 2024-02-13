@@ -1,4 +1,4 @@
-brand,processor_brand,processor_name,os,weight,warranty,touchscreen,ram_gb,hdd,ssd,graphic_card_gb,ram_type,os_bit,prediction,timestamp,model_version
+brand,processor_brand,processor_name,os,weight,warranty,touchscreen,ram_gb,hdd,ssd,graphic_card_gb,ram_type,os_bit,price,timestamp,model_version
 dell,intel,core i5,windows,casual,2,0,16,0,256,8,ddr4,64,66547,16-01-2024 02:07,1.0.12
 asus,intel,core i7,other,thinnlight,0,0,4,2048,0,16,other,64,52300,16-01-2024 02:12,1.0.12
 hp,intel,ryzen 7,other,thinnlight,3,1,32,2048,0,8,ddr4,32,85278,16-01-2024 02:12,1.0.12
